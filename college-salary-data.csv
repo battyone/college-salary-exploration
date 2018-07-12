@@ -1,0 +1,341 @@
+School Name,Region,School Type,Starting Median Salary,Mid-Career Median Salary,Mid-Career 10th Percentile Salary,Mid-Career 25th Percentile Salary,Mid-Career 75th Percentile Salary,Mid-Career 90th Percentile Salary
+Stanford University,California,,70.4,129,68.4,93.1,184,257
+California Institute of Technology (CIT),California,Engineering,75.5,123,,104,161,
+Harvey Mudd College,California,Engineering,71.8,122,,96,180,
+University of California Berkeley,California,State,59.9,112,59.5,81,149,201
+Occidental College,California,Liberal Arts,51.9,105,,54.8,157,
+Cal Poly San Luis Obispo,California,State,57.2,101,55,74.7,133,178
+University of California at Los Angeles (UCLA),California,State,52.6,101,51.3,72.5,139,193
+University of California San Diego (UCSD),California,State,51.1,101,51.7,75.4,131,177
+Pomona College,California,Liberal Arts,48.6,101,,63.3,161,
+University of Southern California (USC),California,,54.8,99.6,49.7,73.8,140,201
+University of California Davis,California,State,52.3,99.6,52,71.6,135,202
+University of California Irvine (UCI),California,State,48.3,96.7,47.8,66,123,172
+San Jose State University (SJSU),California,State,53.5,95.6,50.7,70.5,122,156
+University of California Santa Barbara (UCSB),California,Party,50.5,95,51.3,71.2,129,173
+University of California Santa Barbara (UCSB),California,State,50.5,95,51.3,71.2,129,173
+California State University (CSU) Chico,California,State,47.4,88.1,46.8,62.8,122,154
+California State University Fullerton (CSUF),California,State,45.7,87,45.4,62.5,119,158
+San Francisco State University (SFSU),California,State,47.3,86.4,45.1,62.7,114,150
+San Diego State University (SDSU),California,State,46.2,85.2,45.5,61.8,116,158
+California State University Long Beach (CSULB),California,State,45.1,84.7,47.4,62.5,113,154
+California State University East Bay (CSUEB),California,State,49.2,84.3,46,62.4,115,155
+University of California Santa Cruz (UCSC),California,State,44.7,84.1,46.1,62,121,165
+California State University Sacramento (CSUS),California,State,47.8,82.4,42.9,59.6,111,154
+University of California Riverside (UCR),California,State,46.8,81.3,37.2,59.9,109,134
+California State University Northridge (CSUN),California,State,45.5,80.4,44.5,57.8,108,153
+California State University Dominguez Hills (CSUDH),California,State,42.7,72.1,30.8,47,92.2,132
+California State University (CSU) Stanislaus,California,State,38,71.4,,50.5,94.1,
+Humboldt State University,California,State,42.6,71.3,36,56.3,94.4,117
+Thomas Aquinas College,California,Liberal Arts,41.5,67.5,,44.6,93.1,
+Colorado School of Mines,Western,Engineering,58.1,106,62.2,87.9,142,201
+University of Colorado - Boulder (UCB),Western,State,47.1,97.6,51.6,69,128,187
+New Mexico Institute of Mining and Technology (New Mexico Tech),Western,Engineering,51,93.4,,67.4,123,
+Brigham Young University (BYU),Western,,49.4,88.6,50.6,68.5,119,164
+University of Arizona,Western,State,47.5,86.1,44.8,61.7,117,160
+University of Washington (UW),Western,State,48.8,85.3,47,59.8,115,149
+Washington State University (WSU),Western,State,45.3,84.7,43.6,59,113,162
+University of Colorado - Denver,Western,State,46.1,84.4,46.4,58.6,105,144
+Arizona State University (ASU),Western,Party,47.4,84.1,44.6,60.7,114,163
+Arizona State University (ASU),Western,State,47.4,84.1,44.6,60.7,114,163
+Oregon State University (OSU),Western,State,45.1,83.3,46.9,64,113,146
+University of Utah,Western,State,45.4,83.2,43,58.4,116,148
+University of Nevada Reno (UNR),Western,State,46.5,82.9,41.9,54.6,113,143
+Seattle University,Western,,48.3,82.8,50.6,62.4,110,150
+University of Idaho,Western,State,44.9,82,43,56.7,104,142
+University of New Mexico (UNM),Western,State,41.6,81.6,41.8,59.1,105,141
+University of Puget Sound,Western,Liberal Arts,46.6,81.5,48.9,60.1,104,137
+Colorado College (CC),Western,Liberal Arts,38.5,81.4,,43,148,
+Reed College,Western,Liberal Arts,40.5,81.1,,67.4,101,
+Whitman College,Western,Liberal Arts,43.5,80.1,,64.8,111,
+New Mexico State University,Western,State,44.3,79.5,37.4,53.8,102,131
+Colorado State University (CSU),Western,State,44.8,79,43.8,57.1,112,150
+University of Wyoming (UW),Western,State,44.5,78.7,41.5,54,105,145
+Utah State University,Western,State,43.8,78.7,41.6,55.4,101,132
+University of Oregon,Western,State,42.2,78.4,38.1,56.2,117,186
+Montana State University - Bozeman,Western,State,46.6,77.5,40.2,58.1,111,151
+Gonzaga University,Western,,44.9,76,47,57.4,103,138
+University of Hawaii,Western,State,43.8,76,40.4,56.3,104,128
+Western Washington University,Western,State,42.7,75.4,41.3,56.7,99.2,119
+Regis University,Western,,48.3,73.8,41,55.5,94.8,117
+Idaho State University,Western,State,44.9,73.4,35.4,49.6,101,143
+University of Alaska Anchorage,Western,State,45.9,72.6,39.8,56.6,99.3,137
+Lewis & Clark College,Western,Liberal Arts,38.9,72.6,38.2,53.4,104,140
+University of Montana,Western,State,37.3,71.9,37,51.5,96.4,138
+University of Nevada Las Vegas (UNLV),Western,State,45.2,71.6,39,52.4,100,128
+Portland State University (PSU),Western,State,42.6,70.9,40.7,52.3,94.4,123
+Eastern Washington University,Western,State,38.6,70.9,36,50.5,93.1,117
+Fort Lewis College,Western,Liberal Arts,42,69.8,,55,94,
+Boise State University (BSU),Western,State,40.8,69.5,37.4,48.7,87.5,110
+Utah Valley State College,Western,State,42.4,67.1,,44.1,84.9,
+Evergreen State College,Western,Liberal Arts,39.5,63.9,38.8,47.2,91.6,120
+Southern Utah University,Western,State,41.9,56.5,,39.7,78.4,
+Montana State University - Billings,Western,State,37.9,50.6,,31.8,78.5,
+University of Notre Dame,Midwestern,,56.3,116,66.4,85.1,163,235
+University Of Chicago,Midwestern,,53.4,113,62.2,83.3,174,255
+Carleton College,Midwestern,Liberal Arts,47.5,103,,69.4,141,
+Illinois Institute of Technology (IIT),Midwestern,Engineering,56,97.8,56.1,77.4,121,165
+Case Western Reserve University,Midwestern,,56.2,96.5,54.9,76.5,123,168
+University of Illinois at Urbana-Champaign (UIUC),Midwestern,Party,52.9,96.1,48.2,68.9,132,177
+University of Illinois at Urbana-Champaign (UIUC),Midwestern,State,52.9,96.1,48.2,68.9,132,177
+Northwestern University,Midwestern,,52.7,95.9,51.9,69.1,144,205
+University of Missouri - Rolla (UMR),Midwestern,State,57.1,95.8,67.6,80.4,122,166
+South Dakota School of Mines & Technology,Midwestern,Engineering,55.8,93.4,71.5,81.9,122,147
+University of Michigan,Midwestern,State,52.7,93,50.9,69.4,128,182
+Purdue University,Midwestern,State,51.4,90.5,49.9,67.4,121,168
+Marquette University,Midwestern,,48.5,88.4,49.5,67.4,121,184
+DePauw University,Midwestern,Liberal Arts,41.4,88.2,49.5,57.4,133,185
+University of Wisconsin (UW) - Madison,Midwestern,State,48.9,87.8,47.4,62.4,118,170
+Bradley University,Midwestern,,47,87.3,45.9,64.9,113,151
+St. Olaf College,Midwestern,Liberal Arts,45.3,86.2,41.3,61,120,185
+Michigan State University (MSU),Midwestern,State,46.3,85.3,44.2,61.5,119,170
+DePaul University,Midwestern,,46.4,84.8,50.3,63.9,115,160
+Iowa State University,Midwestern,State,45.4,84.6,44.4,60,109,147
+University of Minnesota,Midwestern,State,46.2,84.2,49,63.2,112,148
+Indiana University (IU) Bloomington,Midwestern,Party,46.3,84,43.6,60.4,119,178
+Indiana University (IU) Bloomington,Midwestern,State,46.3,84,43.6,60.4,119,178
+University of Iowa (UI),Midwestern,Party,44.7,83.9,43.3,61.1,116,163
+University of Iowa (UI),Midwestern,State,44.7,83.9,43.3,61.1,116,163
+Ohio State University (OSU),Midwestern,State,44.9,83.7,45.5,60.7,116,162
+Denison University,Midwestern,Liberal Arts,42,83.5,,62.1,122,
+University of Illinois at Chicago,Midwestern,State,47.5,81.7,44.7,58.8,110,146
+Oberlin College,Midwestern,Liberal Arts,43.4,81.6,,46.4,128,
+University of Kansas,Midwestern,State,42.4,81.6,44.8,57.2,115,156
+University of Missouri - Columbia,Midwestern,State,41.7,81,43.5,57.1,111,156
+University of Nebraska,Midwestern,State,45.7,80.9,42.2,56.6,113,156
+Northern Illinois University (NIU),Midwestern,State,43.6,80.8,43.9,60.2,111,161
+Gustavus Adolphus College,Midwestern,Liberal Arts,44.5,80.6,,49.3,101,
+University of North Dakota,Midwestern,State,44,80.6,43.4,56.4,111,157
+Kansas State University (KSU),Midwestern,State,43.3,79,37.2,54.1,106,138
+University of Wisconsin (UW) - Platteville,Midwestern,State,45.8,78.5,48.4,61.2,100,139
+Wittenberg University,Midwestern,Liberal Arts,39.2,78.2,,54.1,131,
+North Dakota State University (NDSU),Midwestern,State,45.1,77.8,39,55.8,100,123
+Grinnell College,Midwestern,Liberal Arts,42.6,76.6,,65.1,116,
+Wayne State University,Midwestern,State,42.8,76.1,40.1,56.2,101,139
+University of Toledo,Midwestern,State,43.1,75.9,40.1,54.1,100,133
+University of Wisconsin (UW) - Whitewater,Midwestern,State,40.8,75.5,38.2,53.5,99.3,150
+Minnesota State University - Mankato,Midwestern,State,43.3,74.7,39.5,53.8,95.7,140
+University of Wisconsin (UW) - Milwaukee,Midwestern,State,42.3,74.6,40.6,54,93.7,123
+Western Michigan University (WMU),Midwestern,State,42.3,73.8,40.1,52.5,103,135
+South Dakota State University (SDSU),Midwestern,State,41.1,73.5,34.1,49.9,99.4,129
+Ohio University,Midwestern,Party,42.2,73.4,36.6,52.8,106,150
+Ohio University,Midwestern,State,42.2,73.4,36.6,52.8,106,150
+Illinois State University,Midwestern,State,42,73.4,39.1,55.2,105,142
+Cleveland State University,Midwestern,State,43.5,73.1,39.5,51.6,97,137
+University of Nebraska at Omaha,Midwestern,State,41.5,72.6,39.5,54.4,97.4,126
+Southern Illinois University Carbondale,Midwestern,State,43,72.5,38.3,51.3,99.3,139
+Eastern Michigan University,Midwestern,State,40.3,72.1,37.9,52.8,95.4,135
+Bowling Green State University,Midwestern,State,39.8,72.1,38.2,51.8,101,146
+St. Cloud State University,Midwestern,State,41.8,71.4,38.7,49.4,101,126
+University of Wisconsin (UW) - Parkside,Midwestern,State,40.7,71.4,40.9,53.1,84.9,119
+University of Akron,Midwestern,State,41.1,70.3,40.6,53.3,95.2,127
+Missouri State University (MSU),Midwestern,State,36.1,69.5,33.3,46.9,102,134
+University of Wisconsin (UW) - La Crosse,Midwestern,State,42.2,69.3,37.5,47.2,93.1,133
+University of Wisconsin (UW) - Stout,Midwestern,State,43.6,68.3,40.9,50.6,91.6,136
+Robert Morris College (RMC),Midwestern,,38.5,68.2,37.3,47.1,95,128
+University of Missouri - St. Louis (UMSL),Midwestern,State,41.4,67.1,36.8,49.6,97.6,144
+University of Wisconsin (UW) - Oshkosh,Midwestern,State,39.3,66.4,37.7,49.7,90.1,138
+University of Missouri - Kansas City (UMKC),Midwestern,State,38.9,65.8,36.3,48.1,95.8,124
+University of Wisconsin (UW) - Eau Claire,Midwestern,State,41.4,64.8,35,47.3,93.1,125
+Ball State University (BSU),Midwestern,State,39.1,64.5,35.5,48.2,89.3,128
+Park University,Midwestern,,44.3,64.3,37.2,45.6,86.4,113
+University of Wisconsin (UW) - Stevens Point,Midwestern,State,39.8,64,38.4,45.1,95.4,128
+Kent State University,Midwestern,State,38.7,62.6,36.1,45.8,87,124
+University of Wisconsin (UW) - Green Bay,Midwestern,State,35.8,60.6,35.5,46.8,81.8,102
+Indiana Wesleyan University (IWU),Midwestern,,39.8,58.5,39.6,47.8,78.6,93.4
+Pittsburg State University,Midwestern,State,40.4,58.2,25.6,46,84.6,117
+Davenport University,Midwestern,,39.7,46.6,31.6,38.1,65.6,85.7
+Black Hills State University,Midwestern,State,35.3,43.9,,32.2,60.9,
+Rice University,Southern,,64,110,55.9,82.1,141,216
+Georgetown University,Southern,,55,110,60.3,85.8,174,248
+Duke University,Southern,,58.9,106,56,77.4,149,218
+Georgia Institute of Technology,Southern,Engineering,58.3,106,67.2,85.2,137,183
+Washington and Lee University,Southern,Liberal Arts,53.6,104,,82.8,146,
+Vanderbilt University,Southern,,51.2,104,49.9,68.1,147,222
+Davidson College,Southern,Liberal Arts,46.1,104,,70.5,146,
+University of Virginia (UVA),Southern,State,52.7,103,52.2,71.8,146,215
+George Washington University (GWU),Southern,,47,97.9,48.4,69.6,132,194
+Texas A&M University,Southern,State,49.7,96.1,51.1,71.3,131,171
+Tulane University,Southern,,49.1,95.8,46.5,64.4,134,185
+Virginia Polytechnic Institute and State University (Virginia Tech),Southern,Engineering,53.5,95.4,50.6,71.4,124,163
+University of Maryland College Park,Southern,Party,52,95,50.4,68.3,126,166
+University of Maryland College Park,Southern,State,52,95,50.4,68.3,126,166
+University of Richmond,Southern,Liberal Arts,48.6,94.6,44.5,59.4,151,211
+University of Texas (UT) - Austin,Southern,Party,49.7,93.9,50.1,67.4,129,188
+University of Texas (UT) - Austin,Southern,State,49.7,93.9,50.1,67.4,129,188
+Emory University,Southern,,52,91.6,52.5,63.3,128,192
+American University Washington D.C.,Southern,,45.3,90.8,45.2,62.4,134,169
+University of Tulsa,Southern,,42.4,88.7,42.3,60.3,120,197
+Baylor University,Southern,,48.3,88.6,46.3,60.7,130,200
+University of Florida (UF),Southern,Party,47.1,87.9,45.4,62.9,120,172
+University of Florida (UF),Southern,State,47.1,87.9,45.4,62.9,120,172
+Louisiana State University (LSU),Southern,Party,46.9,87.8,43.7,61.3,120,165
+Louisiana State University (LSU),Southern,State,46.9,87.8,43.7,61.3,120,165
+George Mason University,Southern,State,47.8,86.9,51.3,67.2,114,150
+Clemson University,Southern,State,48.4,86,50.5,61.8,111,150
+University of Georgia (UGA),Southern,Party,44.1,86,43.1,57.8,118,164
+University of Georgia (UGA),Southern,State,44.1,86,43.1,57.8,118,164
+Auburn University,Southern,State,45.4,84.7,45.4,62.7,109,145
+University of Delaware,Southern,State,45.9,84.5,44.5,64,119,165
+Randolph-Macon College,Southern,Party,42.6,83.6,,54.1,123,
+Randolph-Macon College,Southern,Liberal Arts,42.6,83.6,,54.1,123,
+North Carolina State University (NCSU),Southern,State,47.2,83.3,49.2,64.8,112,153
+University of Oklahoma,Southern,State,44.7,82.9,41.2,60.3,114,167
+University of Arkansas,Southern,State,44.1,82.8,43.2,60.7,113,160
+University of Alabama at Huntsville (UAH),Southern,State,43.1,82.7,46.1,67.8,106,132
+Howard University,Southern,,46.9,81.8,43.3,60,109,138
+University of North Carolina at Chapel Hill (UNCH),Southern,State,42.9,81.5,43.4,57.5,117,155
+University of Alabama Tuscaloosa,Southern,Party,41.3,81.4,40.1,56.5,117,161
+University of Alabama Tuscaloosa,Southern,State,41.3,81.4,40.1,56.5,117,161
+University of Texas at Arlington (UTA),Southern,State,45.4,80.8,46.4,61.2,106,138
+Oklahoma State University,Southern,State,42.8,80.7,40.1,56.5,114,151
+Tennessee Technological University,Southern,Engineering,46.2,80,42.1,62.6,99.5,121
+University of Houston (UH),Southern,State,46,79.9,42,56.2,106,141
+University of Mississippi,Southern,Party,41.4,79.7,40.4,53.5,108,186
+University of Mississippi,Southern,State,41.4,79.7,40.4,53.5,108,186
+Lamar University,Southern,State,46.5,79.4,38.7,51.6,114,158
+Mississippi State University (MSU),Southern,State,44.5,79.3,43.3,58.8,108,151
+University of Kentucky (UK),Southern,State,42.8,78.3,43,57.3,107,149
+Texas Christian University (TCU),Southern,,45.1,78.1,42.6,56.6,122,183
+West Virginia University (WVU),Southern,Party,43.1,78.1,39.7,55.7,106,141
+West Virginia University (WVU),Southern,State,43.1,78.1,39.7,55.7,106,141
+University of Maryland Baltimore County (UMBC),Southern,State,47,77.8,46.9,59.1,105,130
+University of Louisiana (UL) at Lafayette,Southern,State,41.1,76.3,42,54.5,107,163
+Florida International University (FIU),Southern,State,43.2,75.5,40.5,55.8,98.2,136
+University of Tennessee,Southern,Party,43.8,74.6,41.9,53.2,106,153
+University of Tennessee,Southern,State,43.8,74.6,41.9,53.2,106,153
+University of Arkansas - Monticello (UAM),Southern,State,39.2,74.5,,46.1,110,
+University of North Carolina at Charlotte (UNCC),Southern,State,43.1,74,38.2,53.2,99.5,133
+Georgia State University,Southern,State,41.8,74,43,55.3,99.9,145
+LeTourneau University,Southern,,49.5,73.8,41.2,52.7,95.2,126
+Florida State University (FSU),Southern,Party,42.1,73,39.6,52.8,107,156
+Florida State University (FSU),Southern,State,42.1,73,39.6,52.8,107,156
+University of Texas at El Paso (UTEP),Southern,State,43.4,72.1,37.7,50.4,99.5,133
+University of Central Florida (UCF),Southern,State,42.6,71.7,39.5,51.5,98.4,125
+University of South Carolina,Southern,State,40,71.7,36.3,49.9,98.4,131
+Florida Atlantic University (FAU),Southern,State,42.6,71.1,40.7,53,99.5,137
+University of South Florida (USF),Southern,State,41.1,71.1,39.6,51.5,98.1,131
+University of Texas at San Antonio (UTSA),Southern,State,42.5,70.7,39.1,49.8,92.7,121
+University of Alabama at Birmingham (UAB),Southern,State,39.2,70.1,43,53.4,91.4,125
+University of Memphis (U of M),Southern,State,41.4,69.7,36.1,49.1,93.5,127
+Appalachian State University,Southern,State,40.4,69.1,37.2,50.4,90.8,115
+Virginia Commonwealth University (VCU),Southern,State,42,68.4,37.4,51.9,100,123
+East Carolina University (ECU),Southern,State,40.2,67.5,38.4,52,98.7,151
+Western Carolina University,Southern,State,36.9,66.6,39,49.5,94.4,133
+Jacksonville University,Southern,,46.7,66.2,36.7,47.2,88.5,121
+University of North Carolina at Wilmington (UNCW),Southern,State,37.5,64.4,32.1,46.6,97.1,129
+Oklahoma City University,Southern,,40,64.3,,45.4,80.6,
+Arkansas State University (ASU),Southern,State,38.7,63.3,33.6,45.3,83.9,118
+Tarleton State University (TSU),Southern,State,40.8,62.4,32.1,47.4,80.4,126
+Morehead State University,Southern,State,34.8,60.6,34.3,46.5,72,91.3
+Mississippi College,Southern,,35.4,60.4,,43.9,80.4,
+Dallas Baptist University,Southern,,39.4,60.2,38.5,50.3,81.8,98.1
+Austin Peay State University,Southern,State,37.7,59.2,32.2,40.5,73.9,96.2
+Saint Leo University,Southern,,40.9,57.8,34.4,41.8,80.6,113
+Tusculum College,Southern,,36.9,55.5,36.2,43,87.3,124
+Virginia Wesleyan College (VWC),Southern,,34.6,54.9,,37.1,88.9,
+Lee University (Cleveland TN),Southern,,34.5,53.9,,44.5,76.8,
+Florida Metropolitan University (FMU),Southern,,36.6,51,32.8,36.8,70.4,102
+Dartmouth College,Northeastern,Ivy League,58,134,63.1,90.2,234,321
+Princeton University,Northeastern,Ivy League,66.5,131,68.9,100,190,261
+Massachusetts Institute of Technology (MIT),Northeastern,Engineering,72.2,126,76.8,99.2,168,220
+Yale University,Northeastern,Ivy League,59.1,126,58,80.6,198,326
+Harvard University,Northeastern,Ivy League,63.4,124,54.8,86.2,179,288
+University of Pennsylvania,Northeastern,Ivy League,60.9,120,55.9,79.2,192,282
+Polytechnic University of New York Brooklyn,Northeastern,Engineering,62.4,114,66.8,94.3,143,190
+Cooper Union,Northeastern,Engineering,62.2,114,,80.2,142,
+Worcester Polytechnic Institute (WPI),Northeastern,Engineering,61,114,80,91.2,137,180
+Carnegie Mellon University (CMU),Northeastern,Engineering,61.8,111,63.3,80.1,150,209
+Rensselaer Polytechnic Institute (RPI),Northeastern,Engineering,61.1,110,71.6,85.5,140,182
+Cornell University,Northeastern,Ivy League,60.3,110,56.8,79.8,160,210
+Bucknell University,Northeastern,Liberal Arts,54.1,110,62.8,80.6,156,251
+Brown University,Northeastern,Ivy League,56.2,109,55.4,74.4,159,228
+Colgate University,Northeastern,Liberal Arts,52.8,108,60,76.7,167,265
+Columbia University,Northeastern,Ivy League,59.4,107,50.3,71.9,161,241
+Amherst College,Northeastern,Liberal Arts,54.5,107,,84.9,162,
+Lafayette College,Northeastern,Liberal Arts,53.9,107,70.6,79.3,144,204
+Bowdoin College,Northeastern,Liberal Arts,48.1,107,,74.6,146,
+College of the Holy Cross,Northeastern,Liberal Arts,50.2,106,,65.6,143,
+Stevens Institute of Technology,Northeastern,Engineering,60.6,105,68.7,81.9,138,185
+Lehigh University,Northeastern,,59.2,105,69.5,85,160,229
+Swarthmore College,Northeastern,Liberal Arts,49.7,104,,67.2,167,
+Boston College,Northeastern,,52.7,103,48.9,70,143,195
+Williams College,Northeastern,Liberal Arts,51.7,102,,76.4,143,
+Villanova University,Northeastern,,55.8,101,56.8,76.2,156,226
+Fordham University,Northeastern,,47.8,99.9,48.6,65.9,142,198
+Wesleyan University (Middletown Connecticut),Northeastern,Liberal Arts,46.5,97.9,42,62.5,126,215
+Wentworth Institute of Technology,Northeastern,Engineering,53,96.7,55.2,74,117,153
+Bates College,Northeastern,Liberal Arts,47.3,96.5,,60.7,162,
+Binghamton University,Northeastern,State,53.6,95.9,50.9,71.2,146,201
+Union College,Northeastern,Liberal Arts,47.2,95.8,48.7,75.2,135,230
+New York University (NYU),Northeastern,,50.3,95.6,47.5,65,142,216
+Vassar College,Northeastern,Liberal Arts,46,94.6,,60.6,123,
+Middlebury College,Northeastern,Liberal Arts,47.7,94.2,,69.1,129,
+Mount Holyoke College,Northeastern,Liberal Arts,42.4,94.2,,57.1,131,
+Boston University,Northeastern,,49,93.9,48,64.9,130,193
+Drexel University,Northeastern,,53.4,93.5,54.9,72.5,122,161
+St. John's University New York,Northeastern,,48,93.4,48,65.4,124,181
+Long Island University,Northeastern,,47.3,93.2,46.3,62.1,122,169
+Stony Brook University,Northeastern,State,49.5,93,47.2,67.1,129,181
+Franklin and Marshall College,Northeastern,Liberal Arts,49.1,92.8,,55.8,185,
+Hofstra University,Northeastern,,46.8,92.7,48.9,67,135,189
+State University of New York (SUNY) at Albany,Northeastern,Party,44.5,92.2,47,63.1,135,209
+State University of New York (SUNY) at Albany,Northeastern,State,44.5,92.2,47,63.1,135,209
+Rutgers University,Northeastern,State,50.3,91.8,48.1,65.1,128,176
+Pratt Institute,Northeastern,,43.8,89.9,48.6,65.4,123,155
+Pace University,Northeastern,,53.2,89.7,44.2,65.4,129,187
+Seton Hall University,Northeastern,,48.9,89.2,55.7,70.6,133,195
+Rider University,Northeastern,,43.6,88.9,47.1,63.1,127,150
+University of Connecticut (UConn),Northeastern,State,48,88.8,46.1,66.4,120,162
+Providence College,Northeastern,,48,88.6,42.8,62.9,138,194
+University of Massachusetts (UMass) - Amherst,Northeastern,State,46.6,88.2,43.1,61.3,122,168
+Ithaca College,Northeastern,,42.7,87.4,50.2,62.4,128,174
+University of Massachusetts (UMass) - Lowell,Northeastern,State,45.4,86.6,50.9,65,113,158
+Northeastern University,Northeastern,,50.5,86.4,47.1,62.7,117,159
+Syracuse University,Northeastern,,45.7,85.9,46.4,59.4,119,178
+Colby College,Northeastern,Liberal Arts,46.4,85.8,,63.5,129,
+Gettysburg College,Northeastern,Liberal Arts,44.7,85.8,,66.3,132,
+Pennsylvania State University (PSU),Northeastern,Party,49.9,85.7,46.3,62,117,160
+Pennsylvania State University (PSU),Northeastern,State,49.9,85.7,46.3,62,117,160
+University of Rhode Island (URI),Northeastern,State,43.9,85.3,45.4,60.1,112,157
+Siena College,Northeastern,Liberal Arts,45.5,85.2,38.7,58.4,129,189
+La Salle University (Philadelphia),Northeastern,,43.4,84.7,45.3,57.5,106,151
+Rochester Institute of Technology (RIT),Northeastern,Engineering,48.9,84.6,45,62.1,112,159
+Duquesne University,Northeastern,,40.7,84.4,42.6,59.5,107,131
+State University of New York (SUNY) at Farmingdale,Northeastern,State,47.3,84.2,50.2,59.8,110,162
+Smith College,Northeastern,Liberal Arts,44,83.9,45.1,59.8,129,184
+Hamilton College,Northeastern,Liberal Arts,49.2,83.7,,51.9,123,
+Wellesley College,Northeastern,Liberal Arts,42.8,83.5,,58.6,125,
+Widener University,Northeastern,,52.9,83.4,42.6,61.4,106,138
+University of New Haven,Northeastern,,44.4,82.9,48.5,66.1,113,157
+Dowling College,Northeastern,,41.1,82.8,46.5,60.6,117,142
+University of Vermont (UVM),Northeastern,State,44.8,82.7,44.7,58,122,194
+State University of New York (SUNY) at Buffalo,Northeastern,State,46.2,81.7,45.9,61.4,110,147
+State University of New York (SUNY) at Geneseo,Northeastern,State,42.3,81.3,39.3,47.6,117,173
+Fashion Institute of Technology,Northeastern,,42.8,81,38.8,60.5,106,138
+Philadelphia University,Northeastern,,45.1,80.3,45.8,61.9,108,141
+Ursinus College,Northeastern,Liberal Arts,42.1,80,35.6,54.3,100,160
+Adelphi University,Northeastern,,40.6,79.2,44.2,54.8,114,160
+Juniata College,Northeastern,Liberal Arts,41.8,78.9,,67.2,110,
+Fairleigh Dickinson University,Northeastern,,45.7,78.7,40.2,56.3,112,171
+University of New Hampshire (UNH),Northeastern,Party,41.8,78.3,41.7,56.4,114,147
+University of New Hampshire (UNH),Northeastern,State,41.8,78.3,41.7,56.4,114,147
+University of Massachusetts (UMass) - Boston,Northeastern,State,45.6,78.2,36.3,53.8,109,151
+State University of New York (SUNY) at Oswego,Northeastern,State,38,77.8,40.4,53,115,169
+University of Massachusetts (UMass) - Dartmouth,Northeastern,State,43.2,77.7,43.3,56.2,107,132
+State University of New York (SUNY) at Oneonta,Northeastern,State,37.5,76.7,40,54.3,97.7,155
+Quinnipiac University,Northeastern,,43,76.5,47.9,57.4,117,155
+State University of New York (SUNY) at Plattsburgh,Northeastern,State,40.8,76.2,38.4,54.1,105,136
+Sacred Heart University,Northeastern,,46,75.3,39.7,54.8,105,150
+Skidmore College,Northeastern,Liberal Arts,41.6,74.6,,42.8,147,
+Moravian College,Northeastern,Liberal Arts,42.5,74.4,,56.7,94.9,
+Penn State - Harrisburg,Northeastern,State,45.7,74,44,53.1,104,150
+Suffolk University,Northeastern,,42.1,74,48.7,57.8,95.1,145
+Fitchburg State College,Northeastern,State,42.4,72.6,43.3,56.1,99.6,151
+Roger Williams University,Northeastern,,42,72.3,39.8,48.5,102,138
+University Of Maine,Northeastern,State,41.2,72.1,41.7,55.6,99.3,141
+State University of New York (SUNY) at Potsdam,Northeastern,State,38,70.3,35.1,51.2,100,179
+Niagara University,Northeastern,,36.9,69.7,44,57,92,128
+State University of New York (SUNY) at Fredonia,Northeastern,State,37.8,66.2,32.8,44.2,93.3,181
+University of Southern Maine,Northeastern,State,39.4,63.6,40.4,47.9,85.7,117
+Mercy College,Northeastern,,43.7,62.6,35.6,47.3,99,134
